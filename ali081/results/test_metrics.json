@@ -1,0 +1,8 @@
+{
+  "selected_model": "Naive Bayes",
+  "selection_metric": "validation macro F1",
+  "final_training_reviews": 838,
+  "test_reviews": 149,
+  "test_accuracy": 0.8187919463087249,
+  "test_macro_f1": 0.8171779141104294
+}
